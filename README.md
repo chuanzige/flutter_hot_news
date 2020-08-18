@@ -4,11 +4,24 @@ API接口全部来自于:https://www.enlightent.cn/
 
 APP部分截图
 
-![Image text](https://www.chuanzigeblog.com/upload/2020/7/220200818144500464.png)
+![Image text](https://github.com/chuanzige/flutter_hot_news/tree/master/image/1.gif)
 
-![Image text](https://www.chuanzigeblog.com/upload/2020/7/620200818144501962.png)
 
-![Image text](https://www.chuanzigeblog.com/upload/2020/7/420200818144500699.png)
+![Image text](https://github.com/chuanzige/flutter_hot_news/tree/master/image/1.png)
 
-![Image text](https://www.chuanzigeblog.com/upload/2020/7/120200818145141193.gif)
+
+![Image text](https://github.com/chuanzige/flutter_hot_news/tree/master/image/2.png)
+
+
+![Image text](https://github.com/chuanzige/flutter_hot_news/tree/master/image/3.png)
+
+
+![Image text](https://github.com/chuanzige/flutter_hot_news/tree/master/image/4.png)
+
+
+![Image text](https://github.com/chuanzige/flutter_hot_news/tree/master/image/5.png)
+
+
+![Image text](https://github.com/chuanzige/flutter_hot_news/tree/master/image/6.png)
+
 
